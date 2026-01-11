@@ -31,7 +31,7 @@ After completing this course, you should be able to:
 
 -  [Adamu muhammad muhammad](https://github.com/AdamsGeeky)
 -  [Aminu Gambo Abubakar](https://github.com/Aminullah-01)
--  [EXCLUSIVE999]()
+-  [EXCLUSIVE999](https://github.com/EXCLUSIVE999)
 
 ## :octocat: Git and GitHub
 
